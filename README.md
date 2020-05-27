@@ -56,7 +56,7 @@ an example of the results produced are shown below this example photo: increased
      
            coil:  0.25%
            
-   electric fan:  0.22%
+           electric fan:  0.22%
    
           conch:  0.22%
           
