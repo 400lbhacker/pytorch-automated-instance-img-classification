@@ -7,34 +7,63 @@ https://colab.research.google.com/github/400lbhacker/pytorch-automated-instance-
 
 an example of the results produced are shown below this example photo: increased array to 30. 
 ![Image of Yaktocat](https://github.com/400lbhacker/pytorch-automated-instance-img-classification/blob/master/ssa.png)
+
         sundial: 38.74%
+        
        pedestal: 26.11%
+       
           patio: 11.70%
-radio telescope:  4.08%
+          
+          radio telescope:  4.08%
+
          palace:  2.36%
+         
           brass:  2.15%
+          
          mosque:  1.15%
+         
     planetarium:  1.13%
+    
          ashcan:  0.86%
+         
            vase:  0.83%
+           
             pot:  0.81%
+            
            dome:  0.73%
+           
           scale:  0.55%
+          
     loudspeaker:  0.55%
+    
         library:  0.47%
+        
         mailbox:  0.47%
+        
           radio:  0.46%
+          
        fountain:  0.42%
+       
      binoculars:  0.34%
+     
       bannister:  0.32%
+      
         obelisk:  0.30%
+        
      solar dish:  0.29%
+     
      greenhouse:  0.26%
+     
            coil:  0.25%
+           
    electric fan:  0.22%
+   
           conch:  0.22%
+          
           stupa:  0.22%
+          
      television:  0.20%
+     
       water jug:  0.15%
-         mortar:  0.15%
-img classification & tutorial finishe
+      
+         mortar:  0.15
