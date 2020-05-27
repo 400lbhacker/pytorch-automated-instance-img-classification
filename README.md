@@ -5,15 +5,13 @@ improvements: this is my personal mod v2 if you will of original Adversarial Act
 this code is integrated with google collab, to instantly run tutorial:
 https://colab.research.google.com/github/400lbhacker/pytorch-automated-instance-img-classification/blob/master/beast_pytorch_automated_instance_img_classification.ipynb
 
-an example of the results produced are shown below this example photo: increased array to 30. 
+here is an example of random photo & its results:
 ![Image of Yaktocat](https://github.com/400lbhacker/pytorch-automated-instance-img-classification/blob/master/ssa.png)
 
-        sundial: 38.74%
-        
-       pedestal: 26.11%
-       
+        sundial: 38.74%        
+       pedestal: 26.11%       
           patio: 11.70%
-          
+         
           radio telescope:  4.08%
 
          palace:  2.36%
