@@ -32,7 +32,7 @@ here is an example of random photo & its results:
      solar dish:  0.29%
      greenhouse:  0.26%
            coil:  0.25%
-           electric fan:  0.22%
+           electric fan:  0.22%  
           conch:  0.22%
           stupa:  0.22%
      television:  0.20%
